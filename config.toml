@@ -1,0 +1,4 @@
+baseURL = "https://animequuwery8.vercel.app"
+languageCode = "en-us"
+title = "Anime Background"
+theme = "hugo-theme-minos"
